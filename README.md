@@ -10,5 +10,4 @@ what we will learn in this repository:-
 
 -react components as (Flatlist,TouchableWithoutFeedback)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6739588721919709184" height="603" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+Demo:https://www.linkedin.com/posts/seif-el-deen-amr-8362101b2_check-github-repository-todo-react-native-activity-6739588781298483201-LFyy
